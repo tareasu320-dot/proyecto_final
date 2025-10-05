@@ -49,7 +49,7 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(289, 200);
+            this.textBox1.Location = new System.Drawing.Point(288, 199);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(181, 35);
@@ -79,9 +79,9 @@
             // 
             this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(133)))), ((int)(((byte)(187)))), ((int)(((byte)(101)))));
             this.button1.Font = new System.Drawing.Font("Microsoft YaHei", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(292, 367);
+            this.button1.Location = new System.Drawing.Point(299, 359);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(177, 42);
+            this.button1.Size = new System.Drawing.Size(152, 33);
             this.button1.TabIndex = 5;
             this.button1.Text = "ACCEDER";
             this.button1.UseVisualStyleBackColor = false;
@@ -90,7 +90,7 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::proyecto_final.Properties.Resources._611bf021_88db_4f06_bf62_d6bdb80a7244;
-            this.pictureBox1.Location = new System.Drawing.Point(267, 32);
+            this.pictureBox1.Location = new System.Drawing.Point(271, 33);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(219, 89);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;

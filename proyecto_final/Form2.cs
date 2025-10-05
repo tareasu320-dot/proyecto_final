@@ -26,5 +26,45 @@ namespace proyecto_final
         {
 
         }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+
+
+        }
+
+        private void contactarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form formulario = new Form4();
+            formulario.Show();
+
+        }
+
+        private void ingresoDeProductoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form formulario = new Form3();
+            formulario.Show();
+
+        }
+
+        private void pictureBox2_Click_1(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form formulario = new Form1();
+            formulario.Show();
+
+        }
     }
 }
